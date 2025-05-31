@@ -24,7 +24,7 @@ all:
     scanners:
       hosts:
         devops-01:
-		devops-02:
+	devops-02:
 ...
 ```
 
