@@ -76,7 +76,7 @@ playbook Scan Targets
 ```bash
 yamllint hosts scan_targets.yml
 ```
-
+Запуск playbook
 ```bash
 ansible-playbook scan_targets.yml -i hosts
 ```
