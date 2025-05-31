@@ -1,7 +1,7 @@
 ---
 all:
   children:
-    webservers:
+    scanners:
       hosts:
         devops-01:
         devops-02:
