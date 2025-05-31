@@ -156,6 +156,5 @@ devops-01                  : ok=4    changed=1    unreachable=0    failed=0    s
 devops-02                  : ok=4    changed=1    unreachable=0    failed=0    skipped=0    rescued=0    ignored=0  
 ```
 
-
-![[scan_result_01.png]]
-![[scan_result_02.png]]
+![README](scan_result_01.png])
+![README](scan_result_02.png])
